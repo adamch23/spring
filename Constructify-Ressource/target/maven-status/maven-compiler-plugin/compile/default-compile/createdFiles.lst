@@ -1,0 +1,7 @@
+ressources\com\ressources\repositories\RessourceRepository.class
+ressources\com\ressources\entities\Ressource.class
+ressources\com\ressources\services\IRessourceService.class
+ressources\com\ressources\services\RessourceService.class
+ressources\com\ressources\controllers\RessourceController.class
+ressources\com\ressources\RessourcesApplication.class
+ressources\com\ressources\services\ProjectClient.class
